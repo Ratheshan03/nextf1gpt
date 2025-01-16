@@ -12,9 +12,10 @@
   "dependencies": {
     "@datastax/astra-db-ts": "^1.5.0",
     "dotenv": "^16.4.7",
-    "langchain": "^0.3.11",
+    "langchain": "^0.1.36",
     "next": "15.1.4",
     "openai": "^4.78.1",
+    "puppeteer": "^19.11.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "ts-node": "^10.9.2"
